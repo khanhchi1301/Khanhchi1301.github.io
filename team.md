@@ -4,20 +4,17 @@ title: Cẩm nang làm việc nhóm
 
 # Cẩm nang làm việc nhóm
 
-> **Bài 3 · Xoá dòng này khi nộp.** Đây là sản phẩm của **cả nhóm**,
-> nhưng mỗi người ký tên vào phần mình chịu trách nhiệm.
-
-**Nhóm:** … · **Thành viên:** …
+**Nhóm:** Byte/2 · 
+**Thành viên:** 1. Biện Thị Khánh Chi-26820120001
+                2. Vũ Hoàng DƯơng-26820100003
+                3. Phùng Gia Bảo-26820120003 
+                4. Lê Ngọc Vàng-26820100032
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
-> Đây là phần lõi của Playbook — một vấn đề học tập có thật mà nhóm đã đo, tìm nguyên nhân gốc, thử giải pháp và rút cẩm nang cho khoá sau. Đủ năm phần mới tính.
-
 ### 1. Vấn đề
 
-Nêu vấn đề thật, không phải triệu chứng. Kèm câu triệu chứng ban đầu để thấy nhóm đã bóc từ đâu ra.
-
-**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):** …
+**Triệu chứng ban đầu (câu nhóm nói ra đầu tiên):**  
 
 **Vấn đề thật (sau khi bóc):** …
 
