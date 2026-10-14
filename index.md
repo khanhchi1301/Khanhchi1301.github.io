@@ -2,21 +2,16 @@
 title: Hồ sơ nhập ngành
 ---
 
-# Nguyễn Văn An
+# BIỆN THỊ KHÁNH CHI
 
-<!-- ========= PHẦN TÓM TẮT — bốn dòng, người đọc thấy trong sáu giây đầu =========
-     Điền ở Bài 6. Bốn dòng, không hơn. Xem tờ "Trang chủ chính là CV".
-     Sau khi điền, làm phép thử sáu giây với hai bạn cùng lớp.               -->
-
-Sinh viên năm nhất Khoa học máy tính · đang đi về hướng …
+Sinh viên năm nhất Khoa học máy tính · đang đi về hướng kĩ sư AI và kĩ sư phần mềm 
 
 - … việc đã làm số 1, kèm một con số → [career.md](career.md)
 - … việc đã làm số 2, kèm một con số → [roadmap.md](roadmap.md)
 - … việc đã làm số 3, kèm một con số → [ai-audit.md](ai-audit.md)
 
-…@… · <https://…github.io>
+…@… · <https://khanhchi1301.github.io>
 
-<!-- ================= hết phần tóm tắt ================= -->
 
 Trang này ghi lại những gì tôi làm trong học phần **Nhập môn ngành Khoa học máy tính**.
 Sáu bài, sáu trang, một hành trình.
@@ -36,4 +31,4 @@ Ngoài ra: [Nhật ký dùng AI](ai-log.md) — khai báo cho cả học phần.
 
 ---
 
-*Cập nhật lần cuối: … · Liên hệ: …@…*
+*Cập nhật lần cuối: … · Liên hệ: khanhchibien1301@gmail.com
