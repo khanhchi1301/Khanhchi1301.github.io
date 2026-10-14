@@ -25,9 +25,8 @@ Vì sao: Trước hết chúng ta đang dần bước vào kỷ nguyên AI AGENT
 | # | Công ty | Vị trí | Đường dẫn | Ngày truy cập |
 |---|---|---|---|---|
 | 1 | Công Ty TNHH SAMSUNG SDS VietNam  | Software Engineer | https://www.topcv.vn/viec-lam/software-internship-program-2026/2292472.html?ta_source=ButtonCopyToClipboardInJobDetail&u_sr_id=zECkcAKptSPPEEJOtPpCZe4iOYa4tWsC4xMnhmAh_1789388751 | 12/09/2026 |
-| 2 | Công Ty Cổ Phần Falcon Technology | Backend Developer | https://www.topcv.vn/viec-lam/javascript-fresher-15-20m-net-upto18thangluongf37/2233552.htmlta_source=ButtonCopyToClipboardInJobDetail&u_sr_id=zECkcAKptSPPEEJOtPpCZe4iOYa4tWsC4xMnhmAh_1789389133 | 12/09/2026 |
-| 3 | Công Ty Cổ Phần Vận Tải Biển Container Thái Bình Dương | DevOps Engineer |  https://www.topcv.vn/viec-lam/ai-automationspecialist/2295788.htmlta_source=ButtonCopyToClipboardInJobDetail&u_sr_id=zECkcAKptSPPEEJOtPpCZe4iOYa4tWsC4xMnhmAh_1789389346 | 12/09/2026 |
-
+| 2 | Công Ty Cổ Phần Falcon Technology | Backend Developer | https://www.topcv.vn/viec-lam/javascript-fresher-15-20m-net-upto-18-thang-luong-f37/2233552.html?ta_source=ButtonCopyToClipboardInJobDetail&u_sr_id=zECkcAKptSPPEEJOtPpCZe4iOYa4tWsC4xMnhmAh_1789389133 | 12/09/2026  |
+| 3 | Công Ty Cổ Phần Vận Tải Biển Container Thái Bình Dương | DevOps Engineer | https://www.topcv.vn/viec-lam/ai-automation-specialist/2295788.html?ta_source=ButtonCopyToClipboardInJobDetail&u_sr_id=zECkcAKptSPPEEJOtPpCZe4iOYa4tWsC4xMnhmAh_1789389346 | 12/09/2026  |
 
 Ảnh chụp màn hình ba tin lưu trong thư mục `anh/`.
 
