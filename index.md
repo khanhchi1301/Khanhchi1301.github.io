@@ -31,4 +31,4 @@ Ngoài ra: [Nhật ký dùng AI](ai-log.md) — khai báo cho cả học phần.
 
 ---
 
-*Cập nhật lần cuối: … · Liên hệ: khanhchibien1301@gmail.com
+*Cập nhật lần cuối: … · Liên hệ: email: khanhchibien1301@gmail.com
