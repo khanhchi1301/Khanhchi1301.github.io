@@ -5,10 +5,14 @@ title: Cẩm nang làm việc nhóm
 # Cẩm nang làm việc nhóm
 
 **Nhóm:** Byte/2 · 
+
+
 **Thành viên:** 1. Biện Thị Khánh Chi-26820120001
                 2. Vũ Hoàng DƯơng-26820100003
                 3. Phùng Gia Bảo-26820120003 
                 4. Lê Ngọc Vàng-26820100032
+
+
 
 ## Cẩm nang vấn đề nhóm đã giải quyết
 
