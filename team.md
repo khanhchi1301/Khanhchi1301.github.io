@@ -6,7 +6,6 @@ title: Cẩm nang làm việc nhóm
 
 **Nhóm:** **Byte/2**
 
-
 **Thành viên:**<br> 
 1. Biện Thị Khánh Chi-26820120001<br>
 2. Vũ Hoàng DƯơng-26820100003<br>
@@ -51,7 +50,6 @@ title: Cẩm nang làm việc nhóm
 *Người viết phần này: Hoàng Dương*
 
 ### 4. Ba giải pháp đã thử
-
 
 | Giải pháp | Ai thử | Trong bao lâu | Kết quả đo lại | Thành công / thất bại |
 |---|---|---|---|---|
@@ -105,35 +103,69 @@ Nếu thành viên nhận thấy không thể hoàn thành đúng hạn thì ph�
 
 ## 3. Cách họp
 
-Họp ở đâu, bao lâu một lần, mỗi lần bao nhiêu phút, ai chốt kết luận.
+-Nhóm họp trực tiếp hoặc online tùy tình hình.
 
-…
+**Tần suất:** 2–3 lần/tuần khi đang làm dự án.
 
-*Người viết phần này: …*
+**Thời lượng:** khoảng 15–30 phút/buổi.
+
+**Nội dung:** kiểm tra việc đã làm, vấn đề đang gặp và việc tiếp theo.
+
+**Người điều phối:** trưởng nhóm hoặc người được phân công.
+
+**Người chốt kết luận:** trưởng nhóm.
+
+**Sau cuộc họp**: thư ký ghi lại các quyết định quan trọng để mọi người cùng theo dõi.
+
+-Mỗi cuộc họp không nên dành quá nhiều thời gian để kể lại những việc đã làm. Trọng tâm là việc gì đang bị kẹt và cần giải quyết như thế nào.
+
+*Người viết phần này: Hoàng Dương*
 
 ## 4. Khi một người mất tích
 
-…
+Trong lúc làm bài, đôi khi có thành viên bận việc cá nhân nên không phản hồi tin nhắn hoặc chưa làm phần được giao.
+Khi một người không phản hồi, nhóm thống nhất xử lý như sau:
 
-*Người viết phần này: …*
+- **Bước 1:** Nhắn riêng hỏi xem bạn đó có gặp vấn đề gì không.
+- **Bước 2:** Nếu chưa trả lời thì nhắc lại trong nhóm và hỏi thời gian có thể hoàn thành.
+- **Bước 3:** Nếu deadline gần mà phần việc vẫn chưa được làm, nhóm sẽ chủ động chia phần đó cho thành viên khác để bài không bị trễ.
+- **Bước 4:** Khi bạn đó quay lại, cả nhóm trao đổi lại để thống nhất cách làm tiếp theo.
+
+Quan trọng là không nên ngay lập tức trách bạn đó. Trước tiên cần biết lý do và tìm cách giải quyết để công việc chung không bị ảnh hưởng.
+
+*Người viết phần này: Ngọc Vàng*
 
 ## 5. Khi bất đồng thì quyết thế nào
 
-…
+Khi có bất đồng, mỗi người được trình bày lý do và đưa ra bằng chứng nếu có.
+Nhóm ưu tiên quyết định dựa sau:
 
-*Người viết phần này: …*
+1. Mục tiêu,Yêu cầu của đề bài.
+2. Thời gian và nguồn lực thực tế.
+3. Chất lượng của phương án.
 
-## Nhóm tôi đã cãi nhau ở chỗ nào
+Nếu vẫn không thống nhất sau khi thảo luận, nhóm sẽ bỏ phiếu. Quyết định được đa số chấp nhận và mọi người cùng thực hiện.
+Người điều phối hoặc trưởng nhóm có trách nhiệm chốt quyết định cuối cùng khi nhóm không thể thống nhất.
+Quan điểm cá nhân có thể khác nhau, nhưng sau khi đã thống nhất, mọi thành viên cần cùng chịu trách nhiệm với quyết định chung.
+*Người viết phần này: Khánh Chi*
 
-Viết thật. Nhóm nào cũng có, và chỗ đó thường là chỗ đáng ghi nhất.
+## Nhóm tôi đã cãi nhau ở chỗ nào:
 
-…
+Nhóm tôi chủ yếu cãi nhau về **việc phân chia công việc và tiến độ làm bài**. Ban đầu vì mọi người đều nghĩ bài khá dễ và còn nhiều thời gian nên chưa ai quá lo lắng. Một số phần vì chưa được làm sớm nên đến gần deadline mới bắt đầu làm, lúc đó khối lượng công việc bị dồn lại.
 
-## Tôi đã làm việc với AI thế nào
+Khi gần đến hạn nộp, một số bạn cảm thấy mình đang làm nhiều hơn, trong khi một số bạn khác chưa hoàn thành phần của mình. Từ đó nhóm bắt đầu tranh luận về việc **ai làm nhiều, ai làm ít và tại sao phần việc của mình chưa được hoàn thành**.
+
+Sau khi nói chuyện lại, nhóm nhận ra vấn đề chủ yếu là do **mọi người quá chủ quan về thời gian ngay từ đầu**, chứ không hẳn là vì thành viên nào không muốn làm bài. Vì vậy, nhóm thống nhất chia bài thành từng phần nhỏ, giao rõ người phụ trách và đặt deadline riêng cho từng phần.
+
+Qua lần này, nhóm rút ra kinh nghiệm là **không nên nghĩ bài dễ và còn nhiều thời gian rồi để đến gần deadline mới làm**. Làm sớm sẽ giúp nhóm có thời gian sửa bài và cũng hạn chế được những cuộc tranh cãi không cần thiết.
+
+*Người viết phần này: Gia Bảo*
+
+## Tôi đã làm việc với AI thế nào:
 
 | Bước | Nhóm đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Nhóm hỏi AI về mấy vấn đề nhóm đang gặp như chia việc sao cho hợp lý, đặt deadline thế nào và nếu có người không làm thì nên xử lý ra sao. |
+| **Hoài** |  không lấy câu trả lời của AI bê nguyên vào bài. Có cái AI nói nghe hợp lý nhưng khi áp dụng vào nhóm thì lại hơi không thực tế, nên nhóm tự sửa lại. |
+| **Học** | Trong lúc hỏi AI, mọi người nhận ra vấn đề của nhóm không hẳn là do lười mà chủ yếu là lúc đầu tụi t nghĩ bài dễ, deadline còn lâu nên cứ để đó. Đến gần deadline mới bắt đầu làm thì mọi thứ bị dồn lại. |
+| **Hành** | Sau đó tất cả thử chia bài thành từng phần nhỏ, giao cho từng người và đặt deadline trước deadline chính thức. nhóm cũng kiểm tra tiến độ với nhau để nếu có ai bị chậm thì còn xử lý kịp. |
