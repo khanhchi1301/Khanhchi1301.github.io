@@ -16,7 +16,7 @@ title: Bản đồ học tập bốn năm
 |---|---|---|---|
 | 1 | CMP1074, CMP3075, LAW106, SKL115, ENC120, MAT101, COS673 | Cơ sở lập trình, Thực hành CSL, Pháp luật ĐC, Tư duy TKDA,Anh ngữ 1, Đại số tuyến tính, Nhập môn KHMT   | 19 |
 | 2 | CMP164, CMP365, MAT118, MAT104, ENC121, SKL116, PHT304  | Kỹ thuật lập trình, Thực hành kỹ thuật lập trình, Giải tích, Toán rời rạc, Anh ngữ 2, Đổi mới sáng tạo và tư duy khởi nghiệp, Bóng chuyền 1| 18 |
-| Hè1 | POS104, POS105, ENS192, MAT105, ENC122, COS135, COS323 | Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin, Phát triển bền vững, Xác suất thống kê, Anh ngữ 3, Nhập môn cơ sở dữ liệu, Thực hành cơ sở dữ liệu | 18 | 
+| Hè 1 | POS104, POS105, ENS192, MAT105, ENC122, COS135, COS323 | Triết học Mác - Lênin, Kinh tế chính trị Mác - Lênin, Phát triển bền vững, Xác suất thống kê, Anh ngữ 3, Nhập môn cơ sở dữ liệu, Thực hành cơ sở dữ liệu | 18 | 
 
 ### Năm hai
 
@@ -24,7 +24,7 @@ title: Bản đồ học tập bốn năm
 |---|---|---|---|
 | 3 | CMP167, CMP368, COS120, COS321, AIT1001, ENC123, PHT305 |Lập trình hướng đối tượng, Thực hành lập trình hướng đối tượng, Cấu trúc dữ liệu và giải thuật, Thực hành cấu trúc dữ liệu và giải thuật, Cơ sở trí tuệ nhân tạo, Anh ngữ 4, Bóng chuyền 2 | 16 |
 | 4 | COS1002, COS324, CMP172, CMP373, AIT103, AIT305, PHT306  | Các hệ quản trị cơ sở dữ liệu, Thực hành quản trị cơ sở dữ liệu, Mạng máy tính, Thực hành mạng máy tính, Lập trình cho trí tuệ nhân tạo, Thực hành lập trình cho trí tuệ nhân tạo, Bóng chuyền 3  | 13 |
-| Hè2 | POS106, POS107, POS103, CMP101, CMP174, CMP3014, COS159 | Chủ nghĩa xã hội khoa học, Lịch sử Đảng Cộng sản Việt Nam, Tư tưởng Hồ Chí Minh, Công nghệ phần mềm, Bảo mật thông tin, Thực hành lý thuyết đồ thị, Đồ hoá ứng dụng trong khoa học máy tính | 16 |
+| Hè 2 | POS106, POS107, POS103, CMP101, CMP174, CMP3014, COS159 | Chủ nghĩa xã hội khoa học, Lịch sử Đảng Cộng sản Việt Nam, Tư tưởng Hồ Chí Minh, Công nghệ phần mềm, Bảo mật thông tin, Thực hành lý thuyết đồ thị, Đồ hoá ứng dụng trong khoa học máy tính | 16 |
 
 ### Năm ba
 
@@ -40,7 +40,7 @@ title: Bản đồ học tập bốn năm
 | 7 | CMP170, CMP371, AIT109, AIT123, AIT1008, COS5011, COS464, COS570 | Phân tích và trực quan dữ liệu, Thực hành phân tích và trực quan dữ liệu, Xử lý ảnh và ứng dụng, Thực hành xử lý ảnh và ứng dụng, Lập trình devops, Thực hành lập trình devops, Học sâu, Cơ sở công nghệ chuỗi khối | 22 |
 
 
-**Tổng cộng: 155 tín chỉ.** 
+**Tổng cộng: 155 tín chỉ.**  (trong đó có 5 tín chỉ không tích lũy )
 
 ## Vì sao tôi xếp như vậy
 
