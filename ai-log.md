@@ -7,10 +7,10 @@ title: Nhật ký dùng AI
 
 | Bài | Công cụ | Vai | Tôi nhờ nó làm gì | Tôi đã sửa lại gì |
 |---|---|---|---|---|
-| 1 | ChatGPT | Sinh bản nháp + Đối tác phản biện | Nhờ gợi ý dàn ý bài thuyết trình các môn học và đặt câu hỏi phản biện góc nhìn của tôi. | Lược bỏ các phần lý thuyết quá chung chung, viết lại theo báo cáo thực tế bài thảo luận của nhóm trên lớp. |
+| 1 | ChatGPT | Sinh bản nháp + Đối tác phản biện | Nhờ gợi ý dàn ý bài thuyết trình các môn học và đặt câu hỏi phản biện dưới góc nhìn của tôi. | Lược bỏ các phần lý thuyết quá chung chung, viết lại theo báo cáo thực tế từ bài thảo luận của nhóm. |
 | 2 | Gemini | Đối tác phản biện | Dán dàn ý tiểu luận các môn lý thuyết nhờ AI tìm các nguồn thông tin logic và thực tế. | Sửa lại các lập luận bị lan man, bổ sung thêm ví dụ thực tế cho thuyết phục và ghi lại nguồn rõ ràng. |
 | 3 | ChatGPT | Sinh bản nháp | Nhờ viết mã nháp cho bài tập Lập trình C/C++ cơ bản (vòng lặp và mảng). | Tối ưu lại cấu trúc code, đổi tên biến cho đúng. |
-| 4 | Gemini | Người kèm cặp | Nhờ giải thích khái niệm Con trỏ (Pointer) bằng cách đặt câu hỏi gợi mở từng bước thay vì cho đáp án. | Tự vẽ lại sơ đồ ghi nhớ cá nhân dựa trên các câu trả lời mà mình đã tự suy luận ra. |
+| 4 | Gemini | Người kèm cặp | Nhờ giải thích khái niệm Con trỏ (Pointer) bằng cách đặt câu hỏi gợi mở từng bước thay vì cho đáp án. | Tự vẽ lại sơ đồ ghi nhớ mindmap dựa trên các câu trả lời mà mình đã tự suy luận ra. |
 | 5 | Claude | Đối tác phản biện | So sánh ưu/nhược điểm giữa hai thuật toán sắp xếp và đặt câu hỏi kiểm tra lại mức độ hiểu bài của tôi. | Bổ sung thêm bảng đánh giá độ phức tạp thuật toán và ví dụ minh họa bằng hình vẽ. |
 | 6 | Perplexity | Trợ lý tra cứu | Tìm kiếm và tóm tắt các tài liệu tham khảo chuẩn cho bài tập lớn chuyên ngành. | Dò lại nguồn trích dẫn gốc, loại bỏ các liên kết hỏng hoặc thông tin chưa được kiểm chứng. |
 
