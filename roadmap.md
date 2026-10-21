@@ -40,7 +40,7 @@ title: Bản đồ học tập bốn năm
 | 7 | CMP170, CMP371, AIT109, AIT123, AIT1008, COS5011, COS464, COS570 | Phân tích và trực quan dữ liệu, Thực hành phân tích và trực quan dữ liệu, Xử lý ảnh và ứng dụng, Thực hành xử lý ảnh và ứng dụng, Lập trình devops, Thực hành lập trình devops, Học sâu, Cơ sở công nghệ chuỗi khối | 22 |
 
 
-**Tổng cộng: 155 tín chỉ.**  (trong đó có 5 tín chỉ không tích lũy )
+**Tổng cộng: 155 tín chỉ.**  (trong đó có 5 tín chỉ không tích lũy ) => chỉ có 150 tín chỉ bắt buộc phải hoàn thành 
 
 ## Vì sao tôi xếp như vậy
 
@@ -53,21 +53,21 @@ title: Bản đồ học tập bốn năm
 
 **Chỗ thứ nhất**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Xếp các môn AI chuyên sâu như Lập trình cho AI (AIT103), Máy học (AIT104) ngay vào Học kỳ 2 (Năm 1).
+- Bảng chương trình đào tạo thật ra ghi: Các môn này cần học xong nền tảng (Kỹ thuật lập trình, Cấu trúc dữ liệu) và nên được xếp ở Học kỳ 5 (Năm 3).
+- Tôi sửa thành: Chuyển các môn AI chuyên sâu về Học kỳ 5 & 6 (Năm 3) sau khi đã hoàn thành nền tảng ở Năm 1 & Năm 2.
 
 **Chỗ thứ hai**
 
-- AI nói: …
-- Bảng chương trình đào tạo thật ra ghi: …
-- Tôi sửa thành: …
+- AI nói: Tính 5 tín chỉ Thể dục (Bóng chuyền) và GDQP vào tổng tín chỉ tích lũy GPA.
+- Bảng chương trình đào tạo thật ra ghi: Thể dục và GDQP là các môn điều kiện bắt buộc, không tính vào điểm GPA hay cộng dồn tín chỉ tích lũy 150 tín thành 155 tín.
+- Tôi sửa thành: Đẩy các môn điều kiện để tốt nghiệp chuyển sang kỳ Hè để giảm tải học kỳ chính.
 
 ## Tôi đã làm việc với AI thế nào
 
 | Bước | Tôi đã làm gì |
 |---|---|
-| **Hỏi** | … |
-| **Hoài** | … |
-| **Học** | … |
-| **Hành** | … |
+| **Hỏi** | Nhờ AI đóng vai Generator đối tác phản biện (AI-2) để lập lộ trình học 4 năm ngành KHMT HUTECH theo định hướng AI & Phần mềm. |
+| **Hoài** | Nghi vấn khi thấy AI xếp môn AI quá sớm (Năm 1 khi chưa có nền tảng) và tính nhầm môn Thể dục/GDQP vào GPA. |
+| **Học** | Tra cứu lại Khung chương trình đào tạo. Nhận ra AI tự thêm vào các môn tiên quyết và quy chế tín chỉ. |
+| **Hành** | Tự xếp lại bảng lộ trình chuẩn: giữ 19 TC ở HK1, chuyển môn điều kiện sang kỳ Hè và phân bổ lại các môn chuyên ngành Năm 2-3 hợp lý. |
