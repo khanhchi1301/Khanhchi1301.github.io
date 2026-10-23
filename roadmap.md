@@ -37,7 +37,7 @@ title: Bản đồ học tập bốn năm
 
 | Học kỳ | Mã môn | Tên môn | Tín chỉ |
 |---|---|---|---|
-| 7 | CMP170, CMP371, AIT109, AIT123, AIT1008, COS5011, COS464, COS570 | Phân tích và trực quan dữ liệu, Thực hành phân tích và trực quan dữ liệu, Xử lý ảnh và ứng dụng, Thực hành xử lý ảnh và ứng dụng, Lập trình devops, Thực hành lập trình devops, Học sâu, Cơ sở công nghệ chuỗi khối | 22 |
+| 7 | CMP170, CMP371, AIT109, AIT123, AIT1008, COS5011, COS464, COS570  Lập trình trên môi trường Windows,Thực hành lập trình trên môi trường Windows,Xử lý ngôn ngữ tự nhiên và ứng dụng,Mô hình ngôn ngữ lớn,Phân tích ảnh và thị giác máy tính,Thực tập cơ sở ngành Khoa học máy tính,Thực tập tốt nghiệp ngành Khoa học máy tính | 22 |
 
 
 **Tổng cộng: 155 tín chỉ.**  (trong đó có 5 tín chỉ không tích lũy ) => chỉ có 150 tín chỉ bắt buộc phải hoàn thành 
